@@ -1,0 +1,6 @@
+[submodule "contracts-yolo/lib/forge-std"]
+	path = contracts-yolo/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "contracts-yolo/lib/vrf-contracts"]
+	path = contracts-yolo/lib/vrf-contracts
+	url = https://github.com/gelatodigital/vrf-contracts
