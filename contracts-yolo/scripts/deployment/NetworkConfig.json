@@ -1,0 +1,66 @@
+{
+  "1": {
+    "privateKeyName": "MAINNET_KEY",
+    "owner": "0xB5a9e5a319c7fDa551a30BE592c77394bF935c6f",
+    "operator": "0xB5a9e5a319c7fDa551a30BE592c77394bF935c6f",
+    "wrappedNativeToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "transferManager": "0x00000000000ea4af05656C17b90f4d64AdD29e1d",
+    "protocolFeeRecipient": "0xB5a9e5a319c7fDa551a30BE592c77394bF935c6f",
+    "vrfCoordinator": "0x271682DEB8C4E0901D1a1550aD2e64D568E69909",
+    "keyHash": "0x8af398995b04c28e9951adb9721ef74c74f93e6a478f39e7e0777be13527e7ef",
+    "subscriptionId": 734,
+    "looks": "0xf4d2888d29D722226FafA5d9B24F9164c092421E"
+  },
+  "11155111": {
+    "privateKeyName": "TESTNET_KEY",
+    "owner": "0xF332533bF5d0aC462DC8511067A8122b4DcE2B57",
+    "operator": "0xF332533bF5d0aC462DC8511067A8122b4DcE2B57",
+    "wrappedNativeToken": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+    "transferManager": "0x8B43b6C4601FaCF70Fe17D057b3912Bde0206CFB",
+    "protocolFeeRecipient": "0x50F0787Ed7C9091aBCa1D667fDBCcd85EA68C38C",
+    "vrfCoordinator": "0x8103B0A8A00be2DDC778e6e7eaa21791Cd364625",
+    "keyHash": "0x474e34a077df58807dbe9c96d3c009b23b3c6d0cce433e59bbf5b34f823bc56c",
+    "subscriptionId": 1122,
+    "looks": "0xa68c2CaA3D45fa6EBB95aA706c70f49D3356824E"
+  },
+  "42161": {
+    "privateKeyName": "MAINNET_KEY",
+    "priceOracleSaltName": "ARBITRUM_PRICE_ORACLE_SALT",
+    "yoloSaltName": "ARBITRUM_YOLO_SALT",
+    "owner": "0x3ab105F0e4A22ec4A96a9b0Ca90c5C534d21f3a7",
+    "operator": "0x3ab105F0e4A22ec4A96a9b0Ca90c5C534d21f3a7",
+    "wrappedNativeToken": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "transferManager": "0x0000000000A3573e1caFe02fe1C3Ac48473C9332",
+    "protocolFeeRecipient": "0x38c259D23d36e87A2185ACD070787e7Be9c246dd",
+    "vrfCoordinator": "0x41034678D6C633D8a95c75e1138A360a28bA15d1",
+    "keyHash": "0x08ba8f62ff6c40a58877a106147661db43bc58dabfb814793847a839aa03367f",
+    "subscriptionId": 131,
+    "looks": ""
+  },
+  "421614": {
+    "privateKeyName": "TESTNET_KEY",
+    "owner": "0xF332533bF5d0aC462DC8511067A8122b4DcE2B57",
+    "operator": "0xF332533bF5d0aC462DC8511067A8122b4DcE2B57",
+    "wrappedNativeToken": "0xeBDCbab722f9B4614b7ec1C261c9E52acF109CF8",
+    "transferManager": "0x21D44Cd218895d08bB57E2161A5c8De1CE898165",
+    "protocolFeeRecipient": "0xF332533bF5d0aC462DC8511067A8122b4DcE2B57",
+    "vrfCoordinator": "0x50d47e4142598E3411aA864e08a44284e471AC6f",
+    "keyHash": "0x027f94ff1465b3525f9fc03e9ff7d6d2c0953482246dd6ae07570c45d6631414",
+    "subscriptionId": 25,
+    "looks": "0x0d2ddc4A656eB8398499fd7adF3DA7Cc545810Ab"
+  },
+  "8453": {
+    "privateKeyName": "MAINNET_KEY",
+    "priceOracleSaltName": "BASE_PRICE_ORACLE_SALT",
+    "yoloSaltName": "BASE_YOLO_SALT",
+    "owner": "0x3ab105F0e4A22ec4A96a9b0Ca90c5C534d21f3a7",
+    "operator": "0x3ab105F0e4A22ec4A96a9b0Ca90c5C534d21f3a7",
+    "wrappedNativeToken": "0x4200000000000000000000000000000000000006",
+    "transferManager": "0x0000000000A3573e1caFe02fe1C3Ac48473C9332",
+    "protocolFeeRecipient": "0xC95908Bed7A7a1d9dAfE705F1D1925D7E8514cfd",
+    "vrfCoordinator": "0xDa0072593f6F9B7a510103602024d882eBc756fc",
+    "keyHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "subscriptionId": 0,
+    "looks": ""
+  }
+}
