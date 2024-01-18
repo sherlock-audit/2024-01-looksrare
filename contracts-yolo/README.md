@@ -90,3 +90,15 @@ echo $LCOV_EXCLUDE | xargs lcov --output-file lcov-filtered.info --remove lcov.i
 genhtml lcov-filtered.info --output-directory out
 open out/index.html
 ```
+
+## Tests
+Set an dotenv file with :
+```
+FOUNDRY_INVARIANT_FAIL_ON_REVERT=true
+export MAINNET_RPC_URL=https://rpc.ankr.com/eth
+```
+then
+```
+yarn install --ignore-scripts
+forge test
+```
